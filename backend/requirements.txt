@@ -1,0 +1,4 @@
+flask
+openai
+flasgger
+flake8
