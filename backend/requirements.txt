@@ -2,3 +2,4 @@ flask
 openai
 flasgger
 flake8
+requests
